@@ -3,3 +3,9 @@
 ################################################################################
 
 /.vs/Brotli.Benchmark
+/Brotli.Benchmark.Lib/bin
+/Brotli.Benchmark.Lib/obj
+/Brotli.Benchmark.Native.Lib/bin
+/Brotli.Benchmark.Native.Lib/obj
+/Brotli.Benchmark.App/bin
+/Brotli.Benchmark.App/obj
